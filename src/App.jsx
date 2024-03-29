@@ -23,6 +23,7 @@ function App() {
         </button>
         <p>
           Archi's Academy kursuna hoşgeldiniz!
+          Vay Anam Vay
         </p>
       </div>
       <p className="read-the-docs">
