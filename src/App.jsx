@@ -24,6 +24,7 @@ function App() {
         <p>
           Archi's Academy kursuna hoşgeldiniz!
           Vay Anam Vay
+          Eski ye mazi derler
         </p>
       </div>
       <p className="read-the-docs">
